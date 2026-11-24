@@ -1,0 +1,2 @@
+{"id": "ex1", "split": "dev", "type": "lookup", "question": "EXAMPLE: How many days is data retained after account closure?", "answer": "90 days", "support": [{"doc": "EXAMPLE_DOC_HASH", "page": 4}], "answerable": true}
+{"id": "ex2", "split": "dev", "type": "unanswerable", "question": "EXAMPLE: Does the policy mention a data protection officer in Brazil?", "answer": null, "support": [], "answerable": false}

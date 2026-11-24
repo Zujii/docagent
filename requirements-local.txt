@@ -1,0 +1,10 @@
+-r requirements.txt
+# LOCAL-only heavy deps
+docling>=2.0
+pypdf>=4.0
+ddgs
+scikit-learn
+xgboost
+pytest
+ruff
+psutil

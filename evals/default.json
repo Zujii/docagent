@@ -1,0 +1,1 @@
+{"parser": "docling", "retrieval": "hybrid", "use_critic": true, "guardrails": true, "gold": "evals/gold.jsonl"}
