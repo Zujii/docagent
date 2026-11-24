@@ -12,3 +12,4 @@ data/raw/*
 data/traces/runs/
 data/traces/*.sqlite
 .idea/
+*.egg-info/
